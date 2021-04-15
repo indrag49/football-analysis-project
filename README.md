@@ -6,7 +6,9 @@ This project introduces the following concepts:
 
 2. How to draw and visualize a soccer pitch using [*mplsoccer*](https://mplsoccer.readthedocs.io/en/latest/index.html), 
 
-How to visualize a pass network for a particular team in a particular map, and
-How to use *NetworkX* module to analyse the pass network (eg. finding out degree distribution of passes, clustering coefficient, centrality, etc.), and finally
-How to implement computational geometric concepts like Convex Hulls, Voronoi diagrams and Delaunay triangulations to understand and visualize football tracing data
+3. How to visualize a pass network for a particular team in a particular map,
+
+4. How to use [*NetworkX*](https://networkx.org/) module to analyse the pass network (eg. finding out degree distribution of passes, clustering coefficient, centrality, etc.), and finally
+5. How to implement computational geometric concepts like Convex Hulls, Voronoi diagrams and Delaunay triangulations to understand and visualize football traking data (using [*scipy.spatial*](https://docs.scipy.org/doc/scipy/reference/spatial.html) and *mplsoccer*).
+
 
