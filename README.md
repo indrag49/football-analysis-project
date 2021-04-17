@@ -24,3 +24,9 @@ Resources that helped me start with football data analysis:
 4. [**FC Python**](https://fcpython.com/) blog,
 5. [**Graph Theory and Complex Network: An Introduction**](https://www.amazon.com/Graph-Theory-Complex-Networks-Introduction/dp/9081540610) by **Dr. Maarten Van Steen**
 ---
+
+# Miscellaneous data files:
+
+---
+
+---
