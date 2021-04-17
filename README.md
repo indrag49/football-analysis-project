@@ -9,7 +9,7 @@ This project introduces the following concepts:
 2. How to draw and visualize a soccer pitch using [*mplsoccer*](https://mplsoccer.readthedocs.io/en/latest/index.html) {[Notebook](https://github.com/indrag49/football-analysis-project/blob/main/Introductory%20football%20analysis.ipynb)}, 
 3. How to visualize a pass network map for a particular team in a particular game {[Notebbok](https://github.com/indrag49/football-analysis-project/blob/main/Introductory%20football%20analysis.ipynb)},
 4. How to use [*NetworkX*](https://networkx.org/) module to analyse the pass network (eg. finding out degree distribution of passes, clustering coefficient, centrality, etc.) {[Notebook](https://github.com/indrag49/football-analysis-project/blob/main/Introductory%20football%20analysis.ipynb)}, 
-5. How to implement computational geometric concepts like Convex Hulls, Voronoi diagrams and Delaunay triangulations to understand and visualize football tracking data (using [*scipy.spatial*](https://docs.scipy.org/doc/scipy/reference/spatial.html) and *mplsoccer*),
+5. How to implement computational geometric concepts like Convex Hulls, Voronoi diagrams and Delaunay triangulations to understand and visualize football tracking data (using [*scipy.spatial*](https://docs.scipy.org/doc/scipy/reference/spatial.html) and *mplsoccer*) {[Notebook](https://github.com/indrag49/football-analysis-project/blob/main/Voronoi%20diagrams%20and%20Delaunay%20triangulations%20on%20football%20data.ipynb)},
 6. How to analyse *Expected Goals (xG)* using open data from *statsbomb*,
 7. How to use *Linear Regression Model* on football data, with the help of [*scikit learn*](https://scikit-learn.org/stable/index.html) module
 ---
