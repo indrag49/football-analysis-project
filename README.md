@@ -10,7 +10,8 @@ This project introduces the following concepts:
 3. How to visualize a pass network map for a particular team in a particular game,
 4. How to use [*NetworkX*](https://networkx.org/) module to analyse the pass network (eg. finding out degree distribution of passes, clustering coefficient, centrality, etc.), 
 5. How to implement computational geometric concepts like Convex Hulls, Voronoi diagrams and Delaunay triangulations to understand and visualize football tracking data (using [*scipy.spatial*](https://docs.scipy.org/doc/scipy/reference/spatial.html) and *mplsoccer*),
-6. How to analyse *Expected Goals (xG)* using open data from *statsbomb*.
+6. How to analyse *Expected Goals (xG)* using open data from *statsbomb*,
+7. How to use *Linear Regression Model* on football data.
 ---
 
 # References:
