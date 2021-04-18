@@ -12,7 +12,8 @@ This project introduces the following concepts:
 5. How to implement computational geometric concepts like Convex Hulls, Voronoi diagrams and Delaunay triangulations to understand and visualize football tracking data (using [*scipy.spatial*](https://docs.scipy.org/doc/scipy/reference/spatial.html) and *mplsoccer*) {[Notebook](https://github.com/indrag49/football-analysis-project/blob/main/Voronoi%20diagrams%2C%20Delaunay%20triangulations%20and%20Convex%20Hulls%20on%20football%20data.ipynb)},
 6. How to analyse *Expected Goals (xG)* using open data from *statsbomb* {[Notebook](https://github.com/indrag49/football-analysis-project/blob/main/xG%20analysis.ipynb)},
 7. How to use *Linear Regression* on football data, with the help of [*scikit learn*](https://scikit-learn.org/stable/index.html) module, to predict correlation betweeen *Goals scored* and *Shots on goals* {[Notebook](https://github.com/indrag49/football-analysis-project/blob/main/Linear%20Regression%20model%20on%20football%20data.ipynb)},
-8. How to use *Logistic Regression* to predict whether a pass is a successful pass or not (given some features of the pass) {[Notebook](https://github.com/indrag49/football-analysis-project/blob/main/Logistic%20Regression%20to%20predict%20the%20pass%20outcome%20in%20a%20match.ipynb)}.  
+8. How to use *Logistic Regression* to predict whether a pass is a successful pass or not (given some features of the pass) {[Notebook](https://github.com/indrag49/football-analysis-project/blob/main/Logistic%20Regression%20to%20predict%20the%20pass%20outcome%20in%20a%20match.ipynb)}, 
+9. How to use *Random Forest* to predict whether a pass is a successful pass or not {[Notebook](https://github.com/indrag49/football-analysis-project/blob/main/Random%20Forest%20to%20predict%20the%20pass%20outcome%20in%20a%20match.ipynb)}.
 ---
 
 # References:
