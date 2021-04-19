@@ -14,7 +14,8 @@ This project introduces the following concepts:
 7. How to use *Radar Charts* for comparing and evaluating players' per 90s stats using [*soccerplots*](https://github.com/Slothfulwave612/soccerplots/blob/master/docs/radar_chart.md) package, {[Notebook](https://github.com/indrag49/football-analysis-project/blob/main/Radar%20chart%20comparing%20players%20(usually%20used%20for%20evaluations%20during%20scouting).ipynb)}
 8. How to use *Linear Regression* on football data, with the help of [*scikit learn*](https://scikit-learn.org/stable/index.html) module, to predict correlation betweeen *Goals scored* and *Shots on goals* {[Notebook](https://github.com/indrag49/football-analysis-project/blob/main/Linear%20Regression%20model%20on%20football%20data.ipynb)},
 9. How to use *Logistic Regression* to predict whether a pass is a successful pass or not (given some features of the pass) {[Notebook](https://github.com/indrag49/football-analysis-project/blob/main/Logistic%20Regression%20to%20predict%20the%20pass%20outcome%20in%20a%20match.ipynb)}, 
-10. How to use *Random Forest* to predict whether a pass is a successful pass or not {[Notebook](https://github.com/indrag49/football-analysis-project/blob/main/Random%20Forest%20to%20predict%20the%20pass%20outcome%20in%20a%20match.ipynb)}.
+10. How to use *Random Forest* to predict whether a pass is a successful pass or not {[Notebook](https://github.com/indrag49/football-analysis-project/blob/main/Random%20Forest%20to%20predict%20the%20pass%20outcome%20in%20a%20match.ipynb)},
+11. How to use *Naive Bayes Classifier* to predict a pass outcome {[Notebook](https://github.com/indrag49/football-analysis-project/blob/main/Naive%20Bayes%20Classifier%20to%20predict%20the%20pass%20outcome%20in%20a%20match.ipynb)}.
 ---
 
 # References:
