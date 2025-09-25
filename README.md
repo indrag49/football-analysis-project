@@ -27,9 +27,6 @@ This project introduces the following concepts:
   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=indrag49/football-analysis-project&type=Date&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=indrag49/football-analysis-project&type=Date" />
   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=indrag49/football-analysis-project&type=Date" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=indrag49/Numerical-Optimization&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=indrag49/Numerical-Optimization&type=Date" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=indrag49/Numerical-Optimization&type=Date" />
 </picture>
 
 ---
