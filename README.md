@@ -21,6 +21,16 @@ This project introduces the following concepts:
 14. How to use *K-means clustering* to cluster shot outcomes for Barcelona in La Liga {[Notebook](https://github.com/indrag49/football-analysis-project/blob/main/K-Means%20clustering%20to%20cluster%20shot%20outcomes%20for%20Barcelona.ipynb)}
 ---
 
+# Star History
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=indrag49/football-analysis-project&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=indrag49/football-analysis-project&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=indrag49/football-analysis-project&type=Date" />
+</picture>
+
+---
+
 # References:
 
 ---
